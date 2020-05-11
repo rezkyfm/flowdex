@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0482.jpg</filename>
+	<path>/home/euler/Documents/Skripsi/image/train/0482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tulip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>40</ymin>
+			<xmax>150</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

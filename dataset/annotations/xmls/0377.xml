@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0377.jpg</filename>
+	<path>/home/euler/Documents/Skripsi/image/train/0377.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>30</ymin>
+			<xmax>299</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

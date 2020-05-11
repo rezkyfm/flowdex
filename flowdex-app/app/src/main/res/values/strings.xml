@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">flowdex</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="daisy_desc">
+        Daisy (Bellis perennis) is a common European species of daisy, of the family Asteraceae, often considered the archetypal species of that name.
+        Many related plants also share the name "daisy", so to distinguish this species from other daisies it is sometimes qualified as common daisy, lawn daisy or English daisy. Historically, it has also been commonly known as bruisewort and occasionally woundwort (although the common name woundwort is now more closely associated with Stachys).
+    </string>
+    <string name="dandelion_desc">
+        Taraxacum is a large genus of flowering plants in the family Asteraceae, which consists of species commonly known as dandelions. The genus is native to Eurasia and North America, but the two commonplace species worldwide, T. officinale and T. erythrospermum, were introduced from Europe and now propagate as wildflowers.
+    </string>
+    <string name="sunflower_desc">
+        Helianthus is a genus of plants comprising about 70 species. Except for three species in South America, all Helianthus species are native to North America and Central America. The common names "sunflower" and "common sunflower" typically refer to the popular annual species Helianthus annuus, whose round flower heads in combination with the ligules look like the sun.
+    </string>
+    <string name="rose_desc">
+        A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.
+    </string>
+    <string name="tulip_desc">
+        Tulips (Tulipa) form a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly colored, generally red, pink, yellow, or white (usually in warm colors). They often have a different colored blotch at the base of the tepals (petals and sepals, collectively), internally.
+        Because of a degree of variability within the populations, and a long history of cultivation, classification has been complex and controversial.
+    </string>
+</resources>

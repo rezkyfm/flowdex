@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardflow"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:cardCornerRadius="6dp"
+        app:cardMaxElevation="2dp"
+        android:elevation="1dp"
+        android:layout_marginRight="20dp"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imageflow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/daisy"/>
+
+            <TextView
+                android:id="@+id/titleflow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Daisy"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/colorWhite"
+                android:fontFamily="@font/opensanssemibold"
+                android:textSize="24dp"
+                android:layout_centerHorizontal="true"/>
+
+            <TextView
+                android:id="@+id/descflow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:textColor="@color/colorWhite"
+                android:fontFamily="@font/opensanssemibold"
+                android:textSize="24dp"
+                android:layout_centerHorizontal="true"/>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

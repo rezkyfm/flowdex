@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0054.jpg</filename>
+	<path>/home/euler/Documents/Skripsi/image/train/0054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>134</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>43</ymin>
+			<xmax>139</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>
