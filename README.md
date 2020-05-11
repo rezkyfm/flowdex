@@ -19,4 +19,4 @@ This model recognized 5 flowers:
 | /tfrecord | TFRecord format from dataset |
 
 ## Screenshoot
-[Screenshoot](https://media.giphy.com/media/QTaQTQlbFwtwG3Nw5v/giphy.gif)
+![Screenshoot](https://media.giphy.com/media/QTaQTQlbFwtwG3Nw5v/giphy.gif)
