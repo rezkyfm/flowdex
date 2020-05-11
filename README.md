@@ -1,6 +1,6 @@
 # Flowdex
 Android flower recogition application. This application can detect and classify type of flowers.
-Dataset modified from [Flowers Recognition](kaggle.com/alxmamaev/flowers-recognition). Trained with Tensorflow and MobileNet V1 model.
+Dataset modified from [Flowers Recognition](https://kaggle.com/alxmamaev/flowers-recognition). Trained with Tensorflow and MobileNet V1 model.
 
 This model recognized 5 flowers:
 - Daisy
